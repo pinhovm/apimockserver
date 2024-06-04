@@ -1,0 +1,289 @@
+{
+  "families": [
+    {
+      "id": "1",
+      "rua": "Rua Exemplo 2",
+      "cep": "58770708",
+      "numero": "10",
+      "headOfFamilyNickname": "Ana",
+      "cellphoneHOF": "83195812936",
+      "email": "ana@teste.com",
+      "area": 2,
+      "microarea": 2,
+      "bairro": "Bairro 2",
+      "cidade": "Cidade 2",
+      "estado": "Estado 2",
+      "people": [
+        {
+          "id": "_88k67vvpw",
+          "name": "Ana Souza",
+          "cpf": "12345678902",
+          "age": "1985-07-10",
+          "cns": "12345124",
+          "sex": "F",
+          "diabetes": false,
+          "hypertension": true,
+          "heartProblem": false,
+          "isGestante": false
+        },
+        {
+          "id": "_88k68vvpw",
+          "name": "Carlos Souza",
+          "cpf": "12345678903",
+          "age": "1983-11-20",
+          "cns": "12345125",
+          "sex": "M",
+          "diabetes": false,
+          "hypertension": false,
+          "heartProblem": true,
+          "isGestante": false
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "rua": "Rua Exemplo 3",
+      "cep": "58770709",
+      "numero": "20",
+      "headOfFamilyNickname": "Pedro",
+      "cellphoneHOF": "83195812937",
+      "email": "pedro@teste.com",
+      "area": 3,
+      "microarea": 3,
+      "bairro": "Bairro 3",
+      "cidade": "Cidade 3",
+      "estado": "Estado 3",
+      "people": [
+        {
+          "id": "_88k69vvpw",
+          "name": "Pedro Oliveira",
+          "cpf": "12345678904",
+          "age": "1978-03-15",
+          "cns": "12345126",
+          "sex": "M",
+          "diabetes": true,
+          "hypertension": false,
+          "heartProblem": true,
+          "isGestante": false
+        },
+        {
+          "id": "_88k70vvpw",
+          "name": "Luiza Oliveira",
+          "cpf": "12345678905",
+          "age": "1981-09-22",
+          "cns": "12345127",
+          "sex": "F",
+          "diabetes": true,
+          "hypertension": true,
+          "heartProblem": false,
+          "isGestante": false
+        },
+        {
+          "id": "_88k71vvpw",
+          "name": "Joao Oliveira",
+          "cpf": "12345678906",
+          "age": "2005-05-30",
+          "cns": "12345128",
+          "sex": "M",
+          "diabetes": false,
+          "hypertension": false,
+          "heartProblem": false,
+          "isGestante": false
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "rua": "Rua Exemplo 4",
+      "cep": "58770710",
+      "numero": "30",
+      "headOfFamilyNickname": "Lucas",
+      "cellphoneHOF": "83195812938",
+      "email": "lucas@teste.com",
+      "area": 4,
+      "microarea": 4,
+      "bairro": "Bairro 4",
+      "cidade": "Cidade 4",
+      "estado": "Estado 4",
+      "people": [
+        {
+          "id": "_88k72vvpw",
+          "name": "Lucas Pereira",
+          "cpf": "12345678907",
+          "age": "1990-08-01",
+          "cns": "12345129",
+          "sex": "M",
+          "diabetes": true,
+          "hypertension": false,
+          "heartProblem": false,
+          "isGestante": false
+        },
+        {
+          "id": "_88k73vvpw",
+          "name": "Fernanda Pereira",
+          "cpf": "12345678908",
+          "age": "1992-12-05",
+          "cns": "12345130",
+          "sex": "F",
+          "diabetes": false,
+          "hypertension": true,
+          "heartProblem": true,
+          "isGestante": false
+        },
+        {
+          "id": "_88k74vvpw",
+          "name": "Julia Pereira",
+          "cpf": "12345678909",
+          "age": "2010-10-10",
+          "cns": "12345131",
+          "sex": "F",
+          "diabetes": false,
+          "hypertension": false,
+          "heartProblem": false,
+          "isGestante": false
+        },
+        {
+          "id": "_88k75vvpw",
+          "name": "Gabriel Pereira",
+          "cpf": "12345678910",
+          "age": "2015-03-25",
+          "cns": "12345132",
+          "sex": "M",
+          "diabetes": false,
+          "hypertension": false,
+          "heartProblem": false,
+          "isGestante": false
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "rua": "Rua Exemplo",
+      "cep": "58770707",
+      "numero": "0",
+      "headOfFamilyNickname": "Jose ",
+      "cellphoneHOF": "83195812935",
+      "email": "teste@teste.com",
+      "area": 1,
+      "microarea": 1,
+      "bairro": "Bairro 1",
+      "cidade": "Cidade 1",
+      "estado": "Estado 1",
+      "people": [
+        {
+          "id": "_88k66vvpw",
+          "name": "Jose Silva",
+          "cpf": "12345678901",
+          "age": "1999-05-05",
+          "cns": "12345123",
+          "sex": "M",
+          "diabetes": true,
+          "hypertension": true,
+          "heartProblem": false,
+          "isGestante": false
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "rua": "Rua Exemplo 5",
+      "cep": "58770711",
+      "numero": "40",
+      "headOfFamilyNickname": "Mariana",
+      "cellphoneHOF": "83195812939",
+      "email": "mariana@teste.com",
+      "area": 5,
+      "microarea": 5,
+      "bairro": "Bairro 5",
+      "cidade": "Cidade 5",
+      "estado": "Estado 5",
+      "people": [
+        {
+          "id": "_88k76vvpw",
+          "name": "Mariana Lima",
+          "cpf": "12345678911",
+          "age": "1980-04-14",
+          "cns": "12345133",
+          "sex": "F",
+          "diabetes": false,
+          "hypertension": true,
+          "heartProblem": true,
+          "isGestante": false
+        },
+        {
+          "id": "_88k77vvpw",
+          "name": "Rafael Lima",
+          "cpf": "12345678912",
+          "age": "1979-11-07",
+          "cns": "12345134",
+          "sex": "M",
+          "diabetes": true,
+          "hypertension": false,
+          "heartProblem": true,
+          "isGestante": false
+        },
+        {
+          "id": "_88k78vvpw",
+          "name": "Sofia Lima",
+          "cpf": "12345678913",
+          "age": "2007-01-19",
+          "cns": "12345135",
+          "sex": "F",
+          "diabetes": false,
+          "hypertension": false,
+          "heartProblem": false,
+          "isGestante": false
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "login": "sec01",
+      "password": "sec01",
+      "recoveryEmail": "sec01@yopmail.com",
+      "area": 1,
+      "microArea": 0,
+      "roleFilter": "SECRETARIO",
+      "isLogged": false,
+      "rua": "Rua 1",
+      "numero": "23",
+      "bairro": "Bairro 1",
+      "cidade": "Cidade 1",
+      "estado": "Estado 1",
+      "cep": "58000000"
+    },
+    {
+      "id": "2",
+      "login": "acs01",
+      "password": "acs01",
+      "recoveryEmail": "acs01@yopmail.com",
+      "area": 1,
+      "microArea": 1,
+      "roleFilter": "ACS",
+      "isLogged": false,
+      "rua": "Rua 2",
+      "numero": "23",
+      "bairro": "Bairro 1",
+      "cidade": "Cidade 1",
+      "estado": "Estado 1",
+      "cep": "58000000"
+    },
+    {
+      "id": "3",
+      "login": "admin",
+      "password": "admin",
+      "recoveryEmail": "admin@yopmail.com",
+      "area": 1,
+      "microArea": 1,
+      "roleFilter": "ADMIN",
+      "rua": "Rua 2",
+      "numero": "23",
+      "bairro": "Bairro 1",
+      "cidade": "Cidade 1",
+      "estado": "Estado 1",
+      "cep": "58000000"
+    }
+  ]
+}
